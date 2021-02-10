@@ -1,0 +1,15 @@
+public class Main {
+    //psvm
+    public static void main(String[] args) {
+        //sout
+        System.out.println("Hello World!");
+        System.out.println("MyCode");
+        System.out.println("SOUT, PSVM");
+        System.out.println("2 + 2 = " + (2 + 2));
+        System.out.println("2 + 2 = " + 2 + 2);
+        System.out.println("2 + 2 = " + (2/* + 2*/));
+        System.out.println("Строка 1\n\tСтрока 2\n\t\tСтрока 3");
+
+    }
+}
+
