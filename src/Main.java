@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Строка 1\n\tСтрока 2\n\t\tСтрока 3");
         System.out.println("Finish");
         System.out.println("Finish");
-        System.out.println("Finish");
+        
 
     }
 }
